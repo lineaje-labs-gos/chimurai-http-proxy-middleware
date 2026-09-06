@@ -1,7 +1,7 @@
 {
   "name": "http-proxy-middleware",
   "type": "commonjs",
-  "version": "3.0.7",
+  "version": "3.0.7-lineaje-01",
   "description": "The one-liner node.js proxy middleware for connect, express, next.js and more",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chimurai/http-proxy-middleware.git"
+    "url": "https://github.com/lineaje-labs-gos/chimurai-http-proxy-middleware"
   },
   "keywords": [
     "reverse",
@@ -51,6 +51,12 @@
   ],
   "author": "Steven Chim",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/chimurai/http-proxy-middleware/issues"
   },
